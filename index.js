@@ -13,5 +13,4 @@ async function getImage(query) {
 }
 
 getImage("dog");
-
 // Print out value of API key stored in .env file
